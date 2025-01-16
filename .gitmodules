@@ -1,3 +1,6 @@
 [submodule "Chapter3/Udemy-MVC-ROR"]
 	path = Chapter3/Udemy-MVC-ROR
 	url = git@github.com:chabbipri/Udemy-MVC-ROR.git
+[submodule "Chapter4"]
+	path = Chapter4
+	url = git@github.com:chabbipri/Udemy-ROR-AlphaBlog.git
